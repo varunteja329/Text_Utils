@@ -69,7 +69,7 @@ export default function About(props) {
     </h2>
     <div id="collapsefive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
-       Email:saigannu08@gmail.com
+       Email:nimmakuriva@gmail.com
       </div>
     </div>
   </div>
